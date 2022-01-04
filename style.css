@@ -4,7 +4,7 @@ body{
     background-color:rgb(57, 75, 75);
     background-image: url(Images/cr7-pic-with-bg.jpg);
     background-repeat: no-repeat;
-    background-size: 3000px;
+    background-size: 4250px;
     margin: 0px;
     
 }
@@ -16,7 +16,12 @@ h1{
 }
 h2{
     font-size: 200%;
-    color:whitesmoke;
+    color:rgb(27, 26, 26);
+}
+h3{
+    font-size: 180%;
+    color: khaki;
+    padding-left: 5%;
 }
 h5{
     font-size: 100%;
@@ -32,7 +37,7 @@ p{
     color: skyblue;
     
 }
-section{
+.flexible-container{
     display: flex;
 }
 .half-width{
@@ -44,3 +49,19 @@ section{
 .half-width{
     width: 80%;
 }
+.achiev-all{
+    width: 25%;
+    margin-left: 7%;
+    margin-right: 4%;
+    border-radius: 10px;
+    padding-left: 50px;
+    box-shadow: 10px 10px 50px;
+    background-image: url(Images/istockphoto-1284058976-170667a.jpg);
+    background-repeat: no-repeat;
+    background-size: 700px;
+    
+}
+footer p{
+    text-align: center;
+}
+
