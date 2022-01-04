@@ -1,0 +1,46 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Vujahday Script', cursive;
+    background-color:rgb(57, 75, 75);
+    background-image: url(Images/cr7-pic-with-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: 3000px;
+    margin: 0px;
+    
+}
+h1{
+    font-size: 300%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: teal;
+    
+}
+h2{
+    font-size: 200%;
+    color:whitesmoke;
+}
+h5{
+    font-size: 100%;
+    color: rgb(221, 221, 220);
+    font-family: 'Poppins', sans-serif;;
+}
+.color-all{
+    color: sienna;
+}
+p{
+    font-size: 100%;
+    font-family: sans-serif;
+    color: skyblue;
+    
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 2%;
+}
+.half-width{
+    width: 80%;
+}
